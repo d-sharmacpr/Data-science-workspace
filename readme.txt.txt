@@ -29,4 +29,8 @@ push an existing repository from the command line:-
 ----------------------------------------
 git remote add origin https://github.com/d-sharmacpr/dk-test.git
 git branch -M main
+<<<<<<< HEAD
 git push -u origin main
+=======
+git push -u origin main
+>>>>>>> e33bae7f4cb89810e7ff85d92d176826ee0f9ec8
